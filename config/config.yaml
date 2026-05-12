@@ -1,0 +1,7 @@
+project_name: Breast Cancer Gene Expression Intelligence Platform
+
+model:
+  algorithm: XGBoost
+
+data:
+  source: GEO
