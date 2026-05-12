@@ -29,7 +29,7 @@ The system is designed to simulate a modern bioinformatics intelligence pipeline
 🌐 Hugging Face Deployment
 
 
-
+https://huggingface.co/spaces/riteshkayande/breast-cancer-ai
 ---
 
 🧠 Core Capabilities
