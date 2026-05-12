@@ -1,11 +1,11 @@
 import streamlit as st
 
-st.set_page_config(page_title="Breast Cancer AI Platform", layout="wide")
+st.set_page_config(page_title="Breast Cancer AI", layout="wide")
 
-st.title("🧬 Breast Cancer Gene Expression Intelligence Platform")
+st.title("🧬 Breast Cancer Gene Expression AI Platform")
 
-st.write("✅ App is running successfully (minimal stable version)")
+st.success("App is running successfully 🎉")
 
-st.info("Next step: We will connect ML models, PCA visualization, and SHAP explainability.")
+st.write("This is a stable deployment version.")
 
-st.success("Deployment fix successful 🎉")
+st.info("Next upgrade will include ML models and visualization.")
