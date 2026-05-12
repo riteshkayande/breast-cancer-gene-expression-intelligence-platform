@@ -1,8 +1,8 @@
-{}import pandas as pd
+import pandas as pd
 
 file_path = "../data/raw/GSE2034_series_matrix.txt"
 
-print("Dataset loading started...")
+print("Loading dataset...")
 
 with open(file_path, "r") as f:
     for i in range(10):
