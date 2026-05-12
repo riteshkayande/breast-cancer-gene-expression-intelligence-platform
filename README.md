@@ -267,7 +267,7 @@ Future upgrades may include:
 
 Ritesh Kayande
 
-AI • Bioinformatics • Computational Genomics
+AI Engineering • Bioinformatics • Computational Genomics • Healthcare AI
 
 ---
 
