@@ -282,3 +282,26 @@ MIT License
 Active Development
 
 This project is actively evolving toward a more advanced computational genomics and healthcare AI platform.
+# 📸 Dashboard Preview
+
+## Main Dashboard
+
+![Dashboard](Screenshot_2026_0512_215814.jpg)
+
+---
+
+## Feature Importance & Biomarker Detection
+
+![Feature Importance](Screenshot_2026_0512_215832.jpg)
+
+---
+
+## PCA Visualization & ML Analysis
+
+![PCA](Screenshot_2026_0512_215847.jpg)
+
+---
+
+## ROC Curve & Model Evaluation
+
+![ROC](Screenshot_2026_0512_215900.jpg)
