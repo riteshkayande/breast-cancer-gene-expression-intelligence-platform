@@ -21,7 +21,7 @@ def clean_data(lines):
 def normalize_data(data):
     print("Normalizing dataset...")
     
-    # placeholder normalization logic
+    # placeholder for real normalization
     return data
 
 
@@ -32,4 +32,4 @@ if __name__ == "__main__":
     clean = clean_data(raw)
     final = normalize_data(clean)
     
-    print("Pipeline executed successfully")
+    print("Pipeline successfully executed")
