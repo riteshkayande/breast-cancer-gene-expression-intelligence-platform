@@ -1,11 +1,22 @@
 import streamlit as st
+import pandas as pd
 
-st.set_page_config(page_title="Breast Cancer AI", layout="wide")
+st.set_page_config(page_title="Breast Cancer AI Platform", layout="wide")
 
-st.title("🧬 Breast Cancer Gene Expression AI Platform")
+st.title("🧬 Breast Cancer Gene Expression Platform")
 
 st.success("App is running successfully 🎉")
 
-st.write("This is a stable deployment version.")
+uploaded_file = st.file_uploader("Upload dataset (CSV)", type=["csv"])
 
-st.info("Next upgrade will include ML models and visualization.")
+if uploaded_file:
+    df = pd.read_csv(uploaded_file)
+
+    st.write("### Data Preview")
+    st.write(df.head())
+
+    st.write("### Shape")
+    st.write(df.shape)
+
+    st.write("### Basic Info")
+    st.write(df.describe())
