@@ -205,7 +205,7 @@ https://www.ncbi.nlm.nih.gov/geo/
 
 Clone Repository
 
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/riteshkayande/breast-cancer-gene-expression-intelligence-platform.git
 
 ---
 
